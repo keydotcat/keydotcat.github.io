@@ -50,6 +50,16 @@ body {
   font-size: 1.3em;
 }
 
+.language {
+	position: absolute;
+  top: 0px;
+  right: 0px;
+	font-size: 0.8em;
+	margin: 1em;
+	color: #333;
+	text-decoration: none;
+}
+
 /* Media Queries */
 @media screen and (max-width: 47em) {
   .title, .content {
