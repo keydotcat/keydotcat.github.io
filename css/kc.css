@@ -60,6 +60,21 @@ body {
 	text-decoration: none;
 }
 
+.footer {
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+	text-align: right;
+}
+
+.priv {
+	font-size: 0.7em;
+	text-decoration: none;
+  color: #333;
+	margin: 1em;
+}
+
 /* Media Queries */
 @media screen and (max-width: 47em) {
   .title, .content {
