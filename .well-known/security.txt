@@ -1,0 +1,5 @@
+Contact: mailto:acasajus@NOSPAM-key.cat
+Encryption: https://keybase.io/acasajus
+Acknowledgments: https://key.cat/hall-of-fame.html
+Preferred-Languages: en, ca, es
+Canonical: https://key.cat/.well-known/security.txt
