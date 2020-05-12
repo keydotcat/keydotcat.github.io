@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 .container, .header {
   height: 100%;
@@ -51,28 +51,28 @@ body {
 }
 
 .language {
-	position: absolute;
-  top: 0px;
-  right: 0px;
-	font-size: 0.8em;
-	margin: 1em;
-	color: #333;
-	text-decoration: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 0.8em;
+  margin: 1em;
+  color: #333;
+  text-decoration: none;
 }
 
 .footer {
-	position: fixed;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-	text-align: right;
+  text-align: right;
 }
 
 .priv {
-	font-size: 0.7em;
-	text-decoration: none;
+  font-size: 0.7em;
+  text-decoration: none;
   color: #333;
-	margin: 1em;
+  margin: 1em;
 }
 
 /* Media Queries */
